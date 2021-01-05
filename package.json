@@ -23,7 +23,7 @@
     "@angular/platform-browser-dynamic": "~9.0.1",
     "@angular/router": "~9.0.1",
     "@types/axios": "^0.14.0",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "redux": "^4.0.1",
     "rxjs-compat": "^6.4.0",
     "redux-observable": "^1.0.0",
